@@ -1,0 +1,14 @@
+body{
+  background-color: antiquewhite;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  height: max-content;
+  align-items: center;
+}
+.title {
+  color: blueviolet;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
