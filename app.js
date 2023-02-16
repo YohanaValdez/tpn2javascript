@@ -150,6 +150,9 @@ switch (clima1) {
     acumulador += precio;
     console.log("Felicidades su cancha fue alquilada");
   }
+  else {
+    console.log("no esta disponible");
+  }
   break;
   case "lluvioso":
   if (disponibilidad2 === true && techada2 === false) {
